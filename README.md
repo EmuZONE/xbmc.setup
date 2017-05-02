@@ -1,1 +1,1 @@
-# xbmc.setup
+# Modifizierte Version des XBMC inkl. AddOns
